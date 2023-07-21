@@ -68,7 +68,7 @@ class BigMonster extends Character {
     }
 }
 
-//senario
+//cenario
 class Stage {
     constructor(fighter1, fighter2, fighter1El, fighter2El){
         this.fighter1 = fighter1
